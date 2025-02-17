@@ -56,7 +56,7 @@ const App = () => {
     return (
         <>
             <Navbar />
-            <div className="bg-violet-100 mx-auto my-5 p-5 rounded-xl container">
+            <div className="bg-violet-100 mx-auto my-5 p-5 rounded-xl w-[90vw] container">
                 <h1 className='mb-5 font-bold text-xl text-center'>TaskMan - Manage all your Todos in one place</h1>
                 <div className="flex flex-col mb-5 addTodo">
                     <h1 className='font-bold text-lg'>Add a Todo</h1>
